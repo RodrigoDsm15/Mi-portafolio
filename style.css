@@ -1,0 +1,14 @@
+body {
+    background-color: #87EE8E;
+    color: #274426;
+}
+
+a {
+    color: white;
+}
+
+strong {
+    color: #fbf6fd;
+    border: 6px solid #22D4FD;
+    padding: 10px;
+}
